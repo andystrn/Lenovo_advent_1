@@ -1,0 +1,6 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+img {
+    max-height: 235px;
+    min-height: 153px;
+}
